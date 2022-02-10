@@ -1,0 +1,17 @@
+total 88
+drwxr-xr-x@ 3 morimatsu  staff   96  2  6 13:30 dir1
+-rw-r--r--  3 morimatsu  staff   90  2  6 11:47 drank.txt
+-rw-r--r--  1 morimatsu  staff   90  4  6  2015 drink.txt
+-rw-r--r--@ 1 morimatsu  staff   63  4  6  2015 drink2.txt
+-rw-r--r--  1 morimatsu  staff  191  4  6  2015 example.txt
+-rw-r--r--  1 morimatsu  staff    0  2  6 13:29 file-1.txt
+-rw-r--r--  1 morimatsu  staff   54  4  6  2015 file1
+-rw-r--r--  1 morimatsu  staff   50  4  6  2015 file2
+-rw-r--r--  1 morimatsu  staff   41  4  6  2015 file3
+drwxr-xr-x@ 5 morimatsu  staff  160  2  6 11:50 folder1
+-rw-r--r--  3 morimatsu  staff   90  2  6 11:47 link
+-rw-r--r--  1 morimatsu  staff    0  2  8 14:20 list.txt
+-rw-r--r--  1 morimatsu  staff   21  4  6  2015 number.txt
+-rw-r--r--  1 morimatsu  staff   70  4  6  2015 score.csv
+llllllあほ
+まぬけ
